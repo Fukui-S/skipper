@@ -18,7 +18,7 @@
 //= require_tree .
 
 
-var title = "javascriptが使えました";
+var title = "javascriptが使えました.";
 alert(title)
 
 $(document).ready(function(){
